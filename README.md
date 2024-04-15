@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project focuses on predicting absenteeism in the workplace using logistic regression. Absenteeism can have significant impacts on productivity and organizational performance. By leveraging machine learning techniques, we aim to develop a model that can accurately predict absenteeism and facilitate proactive interventions.
+This project focuses on predicting absenteeism in the workplace using logistic regression. Absenteeism can have significant impacts on productivity and organizational performance. By leveraging machine learning techniques, I aim to develop a model that can accurately predict absenteeism and facilitate proactive interventions.
 
 ## Libraries Used
 
@@ -50,4 +50,4 @@ To run the project, follow these steps:
 4. Utilize the `Absenteeism_module.py` for deploying the model and scaler.
 5. Refer to the provided documentation (`Project_Proposal.pdf`, `ExplainVisualization.pdf`) for additional information.
 
-By following this approach, we aim to train a logistic regression model that can accurately label excessive absenteeism based on employee attributes.
+By following this approach, I aim to train a logistic regression model that can accurately label excessive absenteeism based on employee attributes.
